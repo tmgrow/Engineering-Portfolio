@@ -1,0 +1,48 @@
+{
+  "name": "Tyler Grow",
+  "title": "Mechanical Engineering, Colorado State University",
+  "about": "Write a short intro here: what you build, what you’re looking for, and what you’re proudest of.",
+  "skills": ["SolidWorks", "FEA", "CFD", "MATLAB", "C++", "GD&T", "Machining", "Excel"],
+  "contact": { "email": "", "linkedin": "", "github": "" },
+  "projects": [
+    {
+      "id": "hep-lab",
+      "title": "High Energy Physics Lab",
+      "role": "Student Research Associate",
+      "dates": "Sep 2024 – Present",
+      "tags": ["Research"],
+      "tools": [],
+      "objective": "[Describe the goal or problem.]",
+      "approach": "[Describe your design process and what you personally built.]",
+      "results": "[Results, test data, and what you learned.]",
+      "specs": {},
+      "photos": []
+    },
+    {
+      "id": "ram-rocketry",
+      "title": "Ram Rocketry: IREC Rocket",
+      "role": "Team member",
+      "dates": "Sep 2026 – Present",
+      "tags": ["Aerospace", "Team"],
+      "tools": [],
+      "objective": "[Describe the goal or problem.]",
+      "approach": "[Describe your design process and what you personally built.]",
+      "results": "[Results, test data, and what you learned.]",
+      "specs": { "Apogee target": "", "Mass": "" },
+      "photos": []
+    },
+    {
+      "id": "ram-racing",
+      "title": "Ram Racing: Formula SAE EV",
+      "role": "Team member",
+      "dates": "Aug 2025 – Apr 2026",
+      "tags": ["Automotive", "Team"],
+      "tools": [],
+      "objective": "[Describe the goal or problem.]",
+      "approach": "[Describe your design process and what you personally built.]",
+      "results": "[Results, test data, and what you learned.]",
+      "specs": { "Subsystem": "", "Key spec": "" },
+      "photos": []
+    }
+  ]
+}
